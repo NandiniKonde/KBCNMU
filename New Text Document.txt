@@ -1,1 +1,2 @@
-hey 2 push the command
+hey 2 1push the command
+2 pull the command
